@@ -133,6 +133,10 @@ padding: 0;
   margin-bottom: 1em;
 }
 
+.news-area ul {
+  padding: 0 2.5em 0 2.5em;
+}
+
 .news-area li {
   list-style-type: none;
   padding: 2em 0 2em 0;
@@ -313,6 +317,10 @@ footer a {
     margin: 0;
   }
 
+  .news-area ul {
+    padding: 0;
+  }
+
   .plan-box {
     width: 100%;
   }
@@ -339,6 +347,7 @@ footer a {
   .syokai-text {
     float: none;
     width: 100%;
+    margin: 0;
   }
 
   .syokai-pic2 {
@@ -350,6 +359,7 @@ footer a {
   .syokai-text2 {
     float: none;
     width: 100%;
+    margin: 0;
   }
 
   .yoyaku-button img {

@@ -31,7 +31,7 @@ h1,h2 {
 
 .site-list {
   overflow: hidden;
-  margin: 0 auto 5em auto;
+  margin: 0 auto 3em auto;
   padding: 0 1em;
   width: 80em;
   max-width: 100%;
@@ -40,7 +40,7 @@ h1,h2 {
 
 .site {
   width: 50%;
-  margin: 0 auto 0 auto;
+  margin: 0 auto 2em auto;
   float: left;
 }
 

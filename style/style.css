@@ -9,6 +9,11 @@ html {
   font-family: serif;
   line-height: 1.5;
 }
+
+body {
+  font-family: "Sawarabi Mincho"
+}
+
 a {
   text-decoration: none;
   color: #000;
@@ -142,8 +147,8 @@ section {
   width: 40%;
   text-align: center;
   margin: 2em auto;
-  padding-top: 2.5em;
-  padding-bottom: 2.5em;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
   background-color: #844a4a;
   width: 100%;
   color: #fff;
@@ -161,7 +166,7 @@ section {
 }
 
 .kao img {
-  width: 10%;
+  width: 15%;
   margin: 0 auto;
 }
 
@@ -445,7 +450,7 @@ footer {
 }
 
 .kao img {
-  width: 20%;
+  width: 28%;
   margin: 0 auto;
 }
 
